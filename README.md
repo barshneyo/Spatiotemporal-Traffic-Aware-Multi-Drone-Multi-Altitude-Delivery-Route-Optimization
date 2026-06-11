@@ -1,2 +1,2 @@
 # Spatiotemporal-Traffic-Aware-Multi-Drone-Multi-Altitude-Delivery-Route-Optimization
-Spatiotemporal delivery optimization system using Mini-batch K-Means and OPTICS, and distributed graph learning for dynamic destination clustering, integrated with a time-expanded graph-based multi-agent routing framework using Prioritized A* for traffic-aware route optimization under stochastic constraints
+Spatiotemporal delivery optimization system using Mini-batch K-Means and OPTICS, and distributed graph learning for dynamic destination clustering, integrated with a time-expanded graph-based multi-agent routing framework using Prioritized A*, MCTS, Floyd-Warshall and Johnson's algorithms for traffic-aware route optimization under stochastic constraints
