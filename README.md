@@ -1,5 +1,4 @@
 # Spatiotemporal-Traffic-Aware-Multi-Drone-Multi-Altitude-Delivery-Route-Optimization
-# Spatiotemporal Traffic-Aware Multi-Drone, Multi-Altitude Delivery Route Optimization
 
 ## Project Description
 
